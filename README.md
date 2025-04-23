@@ -2,7 +2,7 @@
 
 
 ### Otávio Sousa da Silva<h3>
--[Atividade 01]( https://otavins.github.io/atividade01/)
+-[Atividade 01]( https://otavins.github.io/ativiade01/)
 
 -[Atividade 02]( https://otavins.github.io/atividade02/)
 
